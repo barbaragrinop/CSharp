@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ModalGR\\Desktop\\APP\\PESSOAL\\ESTUDOS-TRABALHO\\ALURA-CURSO\\CSHARP\\alura-csharp-1-Aula-3\\FilmesApi\\FilmesApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ModalGR\\Desktop\\APP\\PESSOAL\\ESTUDOS-TRABALHO\\ALURA-CURSO\\CSHARP\\alura-csharp-1-Aula-3\\FilmesApi\\FilmesApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ModalGR\\Desktop\\APP\\PESSOAL\\ESTUDOS-TRABALHO\\ALURA-CURSO\\CSHARP\\alura-csharp-1-Aula-3\\FilmesApi\\FilmesApi.csproj",
+        "projectName": "FilmesApi",
+        "projectPath": "C:\\Users\\ModalGR\\Desktop\\APP\\PESSOAL\\ESTUDOS-TRABALHO\\ALURA-CURSO\\CSHARP\\alura-csharp-1-Aula-3\\FilmesApi\\FilmesApi.csproj",
+        "packagesPath": "C:\\Users\\ModalGR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ModalGR\\Desktop\\APP\\PESSOAL\\ESTUDOS-TRABALHO\\ALURA-CURSO\\CSHARP\\alura-csharp-1-Aula-3\\FilmesApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ModalGR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
